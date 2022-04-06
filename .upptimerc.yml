@@ -16,7 +16,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.breadhub.cc
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://breadcity.github.io/assets/0ed96455038595839fcd70e21dbcb066.webp
   name: Upptime
   introTitle: "**BreadHub** is an advanced roblox Script-Hub."
   introMessage: "Made by people who care about the users, Bread Hub is a unique script-hub focused on a unique combination of reliability, performance, and an elegant UI like no other."
