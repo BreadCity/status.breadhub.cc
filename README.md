@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.breadhub.cc): <!--live status--> **🟩 All systems operational**
 
-[![Uptime CI](https://github.com/upptime/BreadCity/status.breadhub.cc/Uptime%20CI/badge.svg)](https://github.com/BreadCity/status.breadhub.cc/actions?query=workflow%3A%22Uptime+CI%22)
+[![Uptime CI](https://github.com/BreadCity/status.breadhub.cc/actions/workflows/uptime.yml/badge.svg)](https://github.com/BreadCity/status.breadhub.cc/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/BreadCity/status.breadhub.cc/workflows/Response%20Time%20CI/badge.svg)](https://github.com/BreadCity/status.breadhub.cc/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/BreadCity/status.breadhub.cc/workflows/Graphs%20CI/badge.svg)](https://github.com/BreadCity/status.breadhub.cc/actions?query=workflow%3A%22Graphs+CI%22)
 [![Static Site CI](https://github.com/BreadCity/status.breadhub.cc/workflows/Static%20Site%20CI/badge.svg)](https://github.com/BreadCity/status.breadhub.cc/actions?query=workflow%3A%22Static+Site+CI%22)
