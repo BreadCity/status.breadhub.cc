@@ -79,7 +79,7 @@
     "uptime": "97.59%",
     "uptimeDay": "95.20%",
     "uptimeWeek": "95.76%",
-    "uptimeMonth": "92.60%",
+    "uptimeMonth": "92.66%",
     "uptimeYear": "97.59%",
     "time": 970,
     "timeDay": 328,
@@ -149,7 +149,7 @@
     "uptime": "97.77%",
     "uptimeDay": "95.31%",
     "uptimeWeek": "96.37%",
-    "uptimeMonth": "93.15%",
+    "uptimeMonth": "93.21%",
     "uptimeYear": "97.77%",
     "time": 501,
     "timeDay": 91,
@@ -210,17 +210,17 @@
     "url": "https://cord.breadhub.cc/",
     "icon": "https://favicons.githubusercontent.com/cord.breadhub.cc",
     "slug": "discord-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "97.68%",
-    "uptimeDay": "95.19%",
+    "uptimeDay": "95.85%",
     "uptimeWeek": "79.68%",
-    "uptimeMonth": "92.20%",
+    "uptimeMonth": "92.19%",
     "uptimeYear": "97.68%",
-    "time": 1572,
-    "timeDay": 1965,
-    "timeWeek": 3573,
-    "timeMonth": 2224,
-    "timeYear": 1572,
+    "time": 1618,
+    "timeDay": 5403,
+    "timeWeek": 4188,
+    "timeMonth": 2356,
+    "timeYear": 1618,
     "dailyMinutesDown": {
       "2022-08-31": 60,
       "2022-08-30": 140,
@@ -274,8 +274,7 @@
       "2022-04-25": 13,
       "2022-04-22": 7,
       "2022-04-20": 9,
-      "2022-04-17": 25,
-      "2022-04-16": 7
+      "2022-04-17": 25
     }
   }
 ]
