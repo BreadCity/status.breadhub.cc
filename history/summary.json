@@ -229,16 +229,16 @@
     "url": "https://cord.breadhub.cc/",
     "icon": "https://favicons.githubusercontent.com/cord.breadhub.cc",
     "slug": "discord-redirect",
-    "status": "up",
-    "uptime": "97.21%",
-    "uptimeDay": "93.85%",
+    "status": "down",
+    "uptime": "97.22%",
+    "uptimeDay": "93.82%",
     "uptimeWeek": "98.54%",
     "uptimeMonth": "87.83%",
-    "uptimeYear": "97.21%",
+    "uptimeYear": "97.22%",
     "time": 1733,
-    "timeDay": 753,
-    "timeWeek": 1265,
-    "timeMonth": 2761,
+    "timeDay": 885,
+    "timeWeek": 1282,
+    "timeMonth": 2745,
     "timeYear": 1733,
     "dailyMinutesDown": {
       "2022-09-19": 89,
@@ -294,8 +294,7 @@
       "2022-07-01": 25,
       "2022-06-21": 70,
       "2022-06-19": 78,
-      "2022-06-16": 9,
-      "2022-06-15": 6
+      "2022-06-16": 9
     }
   }
 ]
