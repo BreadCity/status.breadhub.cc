@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/breadhub.cc.ico",
     "slug": "breadhub-cc-redirect-service",
     "status": "down",
-    "uptime": "98.03%",
-    "uptimeDay": "95.20%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "98.03%",
+    "uptime": "98.02%",
+    "uptimeDay": "94.35%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "98.02%",
     "time": 1320,
     "timeDay": 4571,
     "timeWeek": 3120,
     "timeMonth": 1577,
     "timeYear": 1320,
     "dailyMinutesDown": {
-      "2023-01-08": 69,
+      "2023-01-08": 82,
       "2023-01-06": 7,
       "2022-12-27": 6,
       "2022-12-23": 7,
@@ -76,10 +76,10 @@
     "url": "https://www.breadhub.cc",
     "icon": "https://icons.duckduckgo.com/ip3/www.breadhub.cc.ico",
     "slug": "www-breadhub-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "98.00%",
-    "uptimeDay": "94.60%",
-    "uptimeWeek": "97.95%",
+    "uptimeDay": "94.56%",
+    "uptimeWeek": "97.94%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "98.00%",
     "time": 1356,
@@ -88,7 +88,7 @@
     "timeMonth": 2262,
     "timeYear": 1356,
     "dailyMinutesDown": {
-      "2023-01-08": 77,
+      "2023-01-08": 78,
       "2023-01-07": 60,
       "2023-01-06": 23,
       "2023-01-04": 12,
@@ -141,7 +141,7 @@
       "2022-08-11": 102,
       "2022-08-10": 16,
       "2022-08-09": 74,
-      "2022-08-08": 43
+      "2022-08-08": 32
     }
   },
   {
@@ -149,12 +149,12 @@
     "url": "https://www.breadhub.cc/api/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/www.breadhub.cc.ico",
     "slug": "bread-hub-api",
-    "status": "up",
-    "uptime": "97.47%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "98.47%",
+    "status": "down",
+    "uptime": "97.48%",
+    "uptimeDay": "97.01%",
+    "uptimeWeek": "98.46%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "97.47%",
+    "uptimeYear": "97.48%",
     "time": 508,
     "timeDay": 317,
     "timeWeek": 166,
@@ -222,7 +222,7 @@
       "2022-07-13": 14,
       "2022-07-08": 7,
       "2022-06-17": 18,
-      "2022-06-16": 22
+      "2022-06-16": 13
     }
   },
   {
