@@ -75,12 +75,12 @@
     "url": "https://www.breadhub.cc",
     "icon": "https://icons.duckduckgo.com/ip3/www.breadhub.cc.ico",
     "slug": "www-breadhub-cc",
-    "status": "up",
-    "uptime": "98.00%",
-    "uptimeDay": "91.78%",
-    "uptimeWeek": "97.55%",
+    "status": "down",
+    "uptime": "98.01%",
+    "uptimeDay": "91.76%",
+    "uptimeWeek": "97.54%",
     "uptimeMonth": "99.24%",
-    "uptimeYear": "98.00%",
+    "uptimeYear": "98.01%",
     "time": 1391,
     "timeDay": 5493,
     "timeWeek": 3835,
@@ -139,7 +139,7 @@
       "2022-08-12": 5,
       "2022-08-11": 102,
       "2022-08-10": 16,
-      "2022-08-09": 62
+      "2022-08-09": 46
     }
   },
   {
