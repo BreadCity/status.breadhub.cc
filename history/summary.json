@@ -4,18 +4,19 @@
     "url": "https://breadhub.cc/is-redir-service-alive",
     "icon": "https://icons.duckduckgo.com/ip3/breadhub.cc.ico",
     "slug": "breadhub-cc-redirect-service",
-    "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "98.44%",
+    "uptimeYear": "98.45%",
     "time": 1320,
     "timeDay": 304,
-    "timeWeek": 2584,
+    "timeWeek": 2671,
     "timeMonth": 1501,
     "timeYear": 1320,
     "dailyMinutesDown": {
+      "2023-03-06": 0,
       "2023-02-27": 7,
       "2023-02-20": 14,
       "2023-02-15": 7,
@@ -71,8 +72,7 @@
       "2022-08-20": 48,
       "2022-08-18": 316,
       "2022-08-17": 139,
-      "2022-08-16": 28,
-      "2022-08-13": 12
+      "2022-08-16": 28
     }
   },
   {
@@ -80,18 +80,19 @@
     "url": "https://www.breadhub.cc",
     "icon": "https://icons.duckduckgo.com/ip3/www.breadhub.cc.ico",
     "slug": "www-breadhub-cc",
-    "status": "up",
-    "uptime": "98.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "status": "down",
+    "uptime": "98.42%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "98.41%",
+    "uptimeYear": "98.42%",
     "time": 1325,
     "timeDay": 249,
-    "timeWeek": 710,
+    "timeWeek": 343,
     "timeMonth": 1245,
     "timeYear": 1325,
     "dailyMinutesDown": {
+      "2023-03-06": 0,
       "2023-02-27": 7,
       "2023-02-20": 14,
       "2023-02-15": 6,
@@ -149,7 +150,7 @@
       "2022-08-23": 294,
       "2022-08-22": 12,
       "2022-08-21": 6,
-      "2022-08-18": 76
+      "2022-08-18": 58
     }
   },
   {
@@ -157,18 +158,19 @@
     "url": "https://www.breadhub.cc/api/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/www.breadhub.cc.ico",
     "slug": "bread-hub-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.42%",
     "time": 451,
     "timeDay": 34,
-    "timeWeek": 94,
+    "timeWeek": 59,
     "timeMonth": 82,
     "timeYear": 451,
     "dailyMinutesDown": {
+      "2023-03-06": 0,
       "2023-02-27": 7,
       "2023-02-20": 14,
       "2023-02-15": 6,
@@ -227,7 +229,7 @@
       "2022-08-15": 23,
       "2022-08-14": 24,
       "2022-08-12": 4,
-      "2022-08-11": 39
+      "2022-08-11": 29
     }
   },
   {
