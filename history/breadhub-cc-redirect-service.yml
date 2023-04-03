@@ -1,7 +1,7 @@
 url: https://breadhub.cc/is-redir-service-alive
-status: up
-code: 200
-responseTime: 383
-lastUpdated: 2023-04-02T23:04:18.861Z
+status: down
+code: 502
+responseTime: 928
+lastUpdated: 2023-04-03T13:32:39.253Z
 startTime: Wed Apr 06 2022 16:56:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
