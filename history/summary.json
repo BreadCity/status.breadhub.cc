@@ -6,17 +6,17 @@
     "slug": "breadhub-cc-redirect-service",
     "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "98.61%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "98.60%",
     "time": 1278,
     "timeDay": 3287,
     "timeWeek": 1873,
     "timeMonth": 835,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2023-04-07": 27,
+      "2023-04-07": 39,
       "2023-04-05": 13,
       "2023-04-03": 45,
       "2023-03-29": 29,
@@ -85,9 +85,9 @@
     "url": "https://www.breadhub.cc",
     "icon": "https://icons.duckduckgo.com/ip3/www.breadhub.cc.ico",
     "slug": "www-breadhub-cc",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "97.12%",
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "97.11%",
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "98.59%",
@@ -157,7 +157,7 @@
       "2022-08-28": 14,
       "2022-08-26": 67,
       "2022-08-25": 163,
-      "2022-08-24": 35
+      "2022-08-24": 29
     }
   },
   {
@@ -165,9 +165,9 @@
     "url": "https://www.breadhub.cc/api/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/www.breadhub.cc.ico",
     "slug": "bread-hub-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "97.61%",
+    "uptimeDay": "97.60%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "98.56%",
@@ -236,7 +236,7 @@
       "2022-08-22": 11,
       "2022-08-21": 5,
       "2022-08-18": 213,
-      "2022-08-17": 25
+      "2022-08-17": 21
     }
   },
   {
