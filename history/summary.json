@@ -4,18 +4,19 @@
     "url": "https://breadhub.cc/is-redir-service-alive",
     "icon": "https://icons.duckduckgo.com/ip3/breadhub.cc.ico",
     "slug": "breadhub-cc-redirect-service",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "97.40%",
-    "uptimeYear": "98.46%",
+    "uptimeYear": "98.47%",
     "time": 1450,
     "timeDay": 173,
     "timeWeek": 5161,
     "timeMonth": 2061,
     "timeYear": 1535,
     "dailyMinutesDown": {
+      "2023-05-12": 0,
       "2023-05-10": 42,
       "2023-05-09": 6,
       "2023-05-08": 14,
@@ -75,8 +76,7 @@
       "2022-09-01": 1274,
       "2022-08-31": 78,
       "2022-08-30": 137,
-      "2022-08-29": 69,
-      "2022-08-28": 8
+      "2022-08-29": 69
     }
   },
   {
@@ -84,12 +84,12 @@
     "url": "https://www.breadhub.cc",
     "icon": "https://icons.duckduckgo.com/ip3/www.breadhub.cc.ico",
     "slug": "www-breadhub-cc",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "99.54%",
+    "status": "down",
+    "uptime": "98.51%",
+    "uptimeDay": "99.53%",
     "uptimeWeek": "99.45%",
-    "uptimeMonth": "95.32%",
-    "uptimeYear": "98.35%",
+    "uptimeMonth": "95.31%",
+    "uptimeYear": "98.36%",
     "time": 1325,
     "timeDay": 2949,
     "timeWeek": 949,
@@ -156,7 +156,7 @@
       "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 561,
-      "2022-09-03": 87
+      "2022-09-03": 7
     }
   },
   {
@@ -164,9 +164,9 @@
     "url": "https://www.breadhub.cc/api/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/www.breadhub.cc.ico",
     "slug": "bread-hub-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.40%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "95.38%",
     "uptimeYear": "98.25%",
@@ -176,6 +176,7 @@
     "timeMonth": 74,
     "timeYear": 638,
     "dailyMinutesDown": {
+      "2023-05-12": 0,
       "2023-05-10": 42,
       "2023-05-08": 7,
       "2023-05-04": 508,
@@ -236,7 +237,7 @@
       "2022-08-30": 81,
       "2022-08-26": 51,
       "2022-08-25": 138,
-      "2022-08-24": 67
+      "2022-08-24": 54
     }
   },
   {
