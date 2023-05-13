@@ -4,12 +4,12 @@
     "url": "https://breadhub.cc/is-redir-service-alive",
     "icon": "https://icons.duckduckgo.com/ip3/breadhub.cc.ico",
     "slug": "breadhub-cc-redirect-service",
-    "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "99.51%",
+    "status": "down",
+    "uptime": "98.63%",
+    "uptimeDay": "99.50%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "97.35%",
-    "uptimeYear": "98.48%",
+    "uptimeYear": "98.49%",
     "time": 1442,
     "timeDay": 193,
     "timeWeek": 4283,
@@ -76,7 +76,7 @@
       "2022-09-02": 835,
       "2022-09-01": 1274,
       "2022-08-31": 78,
-      "2022-08-30": 106
+      "2022-08-30": 52
     }
   },
   {
