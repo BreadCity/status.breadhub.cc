@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cord.breadhub.cc.ico",
     "slug": "discord-redirect",
     "status": "up",
-    "uptime": "98.20%",
+    "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.25%",
-    "time": 807,
-    "timeDay": 120,
-    "timeWeek": 146,
+    "uptimeYear": "98.26%",
+    "time": 669,
+    "timeDay": 168,
+    "timeWeek": 137,
     "timeMonth": 147,
-    "timeYear": 302,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2022-09-26": 705,
       "2022-09-25": 1440,
@@ -30,8 +30,7 @@
       "2022-09-11": 791,
       "2022-09-10": 1074,
       "2022-09-09": 28,
-      "2022-09-08": 267,
-      "2022-09-07": 63
+      "2022-09-08": 267
     }
   }
 ]
