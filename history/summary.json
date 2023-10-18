@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cord.breadhub.cc.ico",
     "slug": "discord-redirect",
     "status": "up",
-    "uptime": "98.33%",
+    "uptime": "98.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 45,
-    "timeWeek": 145,
-    "timeMonth": 150,
-    "timeYear": 138,
+    "time": 545,
+    "timeDay": 92,
+    "timeWeek": 146,
+    "timeMonth": 152,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   }
 ]
