@@ -4,8 +4,8 @@
     "url": "https://cord.breadhub.cc/",
     "icon": "https://icons.duckduckgo.com/ip3/cord.breadhub.cc.ico",
     "slug": "discord-redirect",
-    "status": "up",
-    "uptime": "98.78%",
+    "status": "down",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 100,
     "timeMonth": 114,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-09": 0
+    }
   }
 ]
